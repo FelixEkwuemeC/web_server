@@ -1,0 +1,20 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "This is a simple web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bawizle/web_server.git"
+  },
+  "author": "Felix Ekwueme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bawizle/web_server/issues"
+  },
+  "homepage": "https://github.com/bawizle/web_server#readme"
+}
